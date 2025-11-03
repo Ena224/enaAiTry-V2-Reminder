@@ -37,7 +37,7 @@ File Uploads	Multer
 Notifications	Browser Desktop Notification API
 ##**⚙️ Installation & Setup**
 1️⃣ Clone the Project
-git clone https://github.com/<your-username>/personal-ai-assistant.git
+git clone https://github.com/Ena224/enaAiTry-V2-Reminder?tab=readme-ov-file
 cd personal-ai-assistant
 
 2️⃣ Install Dependencies
@@ -73,9 +73,9 @@ You can also upload images for AI-powered analysis through Gemini 2.5.
 
 ## **🗣️ Example Commands**
 my name is Ena
-remind me at 18:00 to study for BCS
+remind me at 18:00 to study for paper work !
 what is my name?
-remind me at 9 to revise data mining
+remind me at 9 to revise Data mining
 
 **🔔 Preview**
 
