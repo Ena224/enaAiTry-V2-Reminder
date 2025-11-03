@@ -1,4 +1,4 @@
-**🤖 Personal AI Assistant with Smart Reminders**
+## **🤖 Personal AI Assistant with Smart Reminders**
 **🪄 Overview**
 
 Meet your Personal AI Assistant, a web-based AI companion powered by Google’s Gemini 2.5 API.
@@ -6,7 +6,7 @@ It’s not just another chatbot — this assistant can chat naturally, detect ob
 
 Built from scratch using Node.js, Express, and JavaScript, this project blends conversational AI with practical time management features — like your own mini digital coach that actually reminds you to study! 📚
 
-**🚀 Features**
+## **🚀 Features**
 
 💬 AI Chat Assistant – Chat naturally with Gemini 2.5 for questions, explanations, or motivation.
 
