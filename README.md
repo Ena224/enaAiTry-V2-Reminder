@@ -35,7 +35,8 @@ AI Model	Google Gemini 2.5 API (@google/generative-ai)
 Storage	LocalStorage (reminders), JSON file (memory)
 File Uploads	Multer
 Notifications	Browser Desktop Notification API
-##**⚙️ Installation & Setup**
+
+## **⚙️ Installation & Setup**
 1️⃣ Clone the Project
 git clone https://github.com/Ena224/enaAiTry-V2-Reminder?tab=readme-ov-file
 cd personal-ai-assistant
