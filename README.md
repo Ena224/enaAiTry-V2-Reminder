@@ -14,7 +14,7 @@ Built from scratch using Node.js, Express, and JavaScript, this project blends c
 
 🖼️ Image Understanding – Upload an image and let the AI describe or analyze what it sees.
 
-**⏰ Smart Study Reminder System –**
+##**⏰ Smart Study Reminder System –**
 Set reminders using simple language like:
 
 remind me at 7:00 to start revision
@@ -23,7 +23,7 @@ remind me at 21:30 to take a break
 
 The system saves reminders locally and sends desktop notifications right on time!
 
-**💻 Runs Fully on Your Local Machine – No cloud dependencies, just your Node server and browser.**
+##**💻 Runs Fully on Your Local Machine – No cloud dependencies, just your Node server and browser.**
 
 ⚡ Gemini 2.5 Integration – Uses the latest Google Generative AI model for text and image generation.
 
@@ -35,7 +35,7 @@ AI Model	Google Gemini 2.5 API (@google/generative-ai)
 Storage	LocalStorage (reminders), JSON file (memory)
 File Uploads	Multer
 Notifications	Browser Desktop Notification API
-**⚙️ Installation & Setup**
+##**⚙️ Installation & Setup**
 1️⃣ Clone the Project
 git clone https://github.com/<your-username>/personal-ai-assistant.git
 cd personal-ai-assistant
@@ -71,7 +71,7 @@ When the time matches, you get a desktop notification saying it’s time to stud
 
 You can also upload images for AI-powered analysis through Gemini 2.5.
 
-**🗣️ Example Commands**
+##**🗣️ Example Commands**
 my name is Ena
 remind me at 18:00 to study for BCS
 what is my name?
@@ -83,12 +83,12 @@ remind me at 9 to revise data mining
 Example:
 
 
-**💬 My Favorite Line**
+##**💬 My Favorite Line**
 
 **“There are tons of bots out there… but can your bot remind you to study like mine does? 😏”**
 
-**👩‍💻 Author**
+##**👩‍💻 Author**
 
-**Tanjim Hossain Ena**
+##**Tanjim Hossain Ena**
 🎓 CSE Student @ North Western University, Khulna
 💡 Passionate about building AI that helps humans — not just answers them.
