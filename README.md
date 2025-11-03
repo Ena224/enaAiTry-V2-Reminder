@@ -8,11 +8,11 @@ Built from scratch using Node.js, Express, and JavaScript, this project blends c
 
 ## **🚀 Features**
 
-💬 AI Chat Assistant – Chat naturally with Gemini 2.5 for questions, explanations, or motivation.
+##**💬 AI Chat Assistant – Chat naturally with Gemini 2.5 for questions, explanations, or motivation.**
 
-🧠 Personal Memory – The bot remembers simple context like your name and interacts personally.
+##**🧠 Personal Memory – The bot remembers simple context like your name and interacts personally.**
 
-🖼️ Image Understanding – Upload an image and let the AI describe or analyze what it sees.
+##**🖼️ Image Understanding – Upload an image and let the AI describe or analyze what it sees.**
 
 ##**⏰ Smart Study Reminder System –**
 Set reminders using simple language like:
@@ -27,7 +27,7 @@ The system saves reminders locally and sends desktop notifications right on time
 
 ⚡ Gemini 2.5 Integration – Uses the latest Google Generative AI model for text and image generation.
 
-**🛠️ Tech Stack**
+##**🛠️ Tech Stack**
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	Node.js, Express.js
@@ -57,7 +57,7 @@ node server.js
 Then open your browser and visit:
 👉 http://localhost:3000
 
-💡 How It Works
+##**💡 How It Works**
 
 You chat with the assistant through the web interface.
 
