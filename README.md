@@ -89,6 +89,6 @@ Example:
 
 ## **👩‍💻 Author**
 
-##**Tanjim Hossain Ena**
-🎓 CSE Student @ North Western University, Khulna
+## **Tanjim Hossain Ena**
+🎓 CSE Student @ North Western University, Khulna , Bangladesh
 💡 Passionate about building AI that helps humans — not just answers them.
