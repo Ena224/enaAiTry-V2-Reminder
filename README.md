@@ -8,11 +8,11 @@ Built from scratch using Node.js, Express, and JavaScript, this project blends c
 
 ## **🚀 Features**
 
-##**💬 AI Chat Assistant – Chat naturally with Gemini 2.5 for questions, explanations, or motivation.**
+## **💬 AI Chat Assistant – Chat naturally with Gemini 2.5 for questions, explanations, or motivation.**
 
-##**🧠 Personal Memory – The bot remembers simple context like your name and interacts personally.**
+## **🧠 Personal Memory – The bot remembers simple context like your name and interacts personally.**
 
-##**🖼️ Image Understanding – Upload an image and let the AI describe or analyze what it sees.**
+## **🖼️ Image Understanding – Upload an image and let the AI describe or analyze what it sees.**
 
 ##**⏰ Smart Study Reminder System –**
 Set reminders using simple language like:
@@ -23,11 +23,11 @@ remind me at 21:30 to take a break
 
 The system saves reminders locally and sends desktop notifications right on time!
 
-##**💻 Runs Fully on Your Local Machine – No cloud dependencies, just your Node server and browser.**
+## **💻 Runs Fully on Your Local Machine – No cloud dependencies, just your Node server and browser.**
 
 ⚡ Gemini 2.5 Integration – Uses the latest Google Generative AI model for text and image generation.
 
-##**🛠️ Tech Stack**
+## **🛠️ Tech Stack**
 Layer	Technology
 Frontend	HTML, CSS, JavaScript
 Backend	Node.js, Express.js
@@ -57,7 +57,7 @@ node server.js
 Then open your browser and visit:
 👉 http://localhost:3000
 
-##**💡 How It Works**
+## **💡 How It Works**
 
 You chat with the assistant through the web interface.
 
@@ -71,7 +71,7 @@ When the time matches, you get a desktop notification saying it’s time to stud
 
 You can also upload images for AI-powered analysis through Gemini 2.5.
 
-##**🗣️ Example Commands**
+## **🗣️ Example Commands**
 my name is Ena
 remind me at 18:00 to study for BCS
 what is my name?
@@ -87,7 +87,7 @@ Example:
 
 **“There are tons of bots out there… but can your bot remind you to study like mine does? 😏”**
 
-##**👩‍💻 Author**
+## **👩‍💻 Author**
 
 ##**Tanjim Hossain Ena**
 🎓 CSE Student @ North Western University, Khulna
